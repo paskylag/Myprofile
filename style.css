@@ -1,0 +1,26 @@
+.first{color: white; display: flex; flex-direction: column; justify-content: center; align-items: center; align-self: center; height: 60vh; margin-top: 5px; background-image: url(laptopimage.jpg); background-size: contain;background-position: center; background-repeat: no-repeat;}
+h3{text-align:center; font-size: 1em; font-style: italic; font-family:'AlfaSlabOne'; font-weight: bold; color: brown;}
+
+.first img{border-radius: 30%; border: solid 2px black; backdrop-filter:blur(50%); width: 15vw; height: 20vh; margin-top: 5px;}
+body{background-image: url(keyboard-1385705_960_720.jpg); background-position: center; background-size: contain; background-repeat: no-repeat;}
+
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Gideon+Roman&family=Ubuntu:wght@300&display=swap');
+
+.second{display:flex; flex-direction: column; center; align-items: center; margin-top: 2px; justify-content: center;}
+.second button{width: 5vw; height: 5vh; color: red;}
+/*.third{display: flex; flex-direction: column; justify-content: center; align-items: center; background-image: url(computer-2982270_1280.jpg); align-self: center; align-content: center;}
+#Mytextbox{width: 50%;}
+#Mysecondtext{width: 50%;}
+.uppertext{text-align: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 1em;}
+.uppertext p{font-size: 0.7em;}
+.third textarea{margin-right: 70px;}
+#form1{display: flex; flex-direction: column; align-content: center; justify-content: center;}
+form{align-items: center; justify-content: center;}
+#button2{display:flex; flex-direction: column; align-items: center; margin-top: 2px; justify-content: center;padding: 10px;}*/
+.formtext{display: flex; flex-direction: column; justify-content: center; align-items: center;}
+.formtext input{width: 45vw; margin: 5px; border-radius: 10px; padding: 10px;}
+.formtext p{margin: 1px; color: white;}
+#heading{text-align: center; font-style: italic; font-family:'AlfaSlabOne'; text-shadow: 10em 10em 5em rgb(red, green, blue);border: solid 5px; margin-top: 15px;}
+#images{display: flex; flex-direction: row; justify-content: center; align-self: center; align-content: center; margin-top: 15px;}
+#images img{width:20vw; height:30vh; display: flex; flex-direction: row; justify-content: center; align-items: center;}
+.formtext h3{color: white;}
