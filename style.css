@@ -24,3 +24,23 @@ form{align-items: center; justify-content: center;}
 #images{display: flex; flex-direction: row; justify-content: center; align-self: center; align-content: center; margin-top: 15px;}
 #images img{width:20vw; height:30vh; display: flex; flex-direction: row; justify-content: center; align-items: center;}
 .formtext h3{color: white;}
+h1 {
+    animation-duration: 3s;
+    animation-name:slidein;}
+  @keyframes slidein {
+    from {
+      margin-left: 80%;
+      width: 100%;
+    }
+
+    75% {
+      font-size: 100%;
+      margin-left: 25%;
+      width: 50%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
