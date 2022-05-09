@@ -44,3 +44,25 @@ h1 {
       width: 100%;
     }
   }
+
+ #images {
+    animation-duration: 3s;
+    animation-name:slidein;}
+  @keyframes slidein {
+    from {
+      margin-left: 80%;
+      width: 100%;
+    }
+
+    75% {
+      font-size: 100%;
+      margin-left: 25%;
+      width: 50%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+  
