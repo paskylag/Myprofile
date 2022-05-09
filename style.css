@@ -46,7 +46,7 @@ h1 {
   }
 
  #images {
-    animation-duration: 3s;
+    animation-duration: 5s;
     animation-name:slidein;}
   @keyframes slidein {
     from {
@@ -66,7 +66,7 @@ h1 {
     }
   }
    .first img {
-    animation-duration: 3s;
+    animation-duration: 10s;
     animation-name:slidein;}
   @keyframes slidein {
     from {
