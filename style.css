@@ -71,12 +71,12 @@ h1 {
   @keyframes slidein {
     from {
       margin-left: 30%;
-      width: 50%;}
+      width: 30%;}
 
   
     to {
       margin-left: 0%;
-      width: 50%;
+      width: 30%;
     }
   }
   
