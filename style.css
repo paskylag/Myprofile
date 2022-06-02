@@ -83,4 +83,23 @@ animation-iteration-count:infinite}
       width: 30%;
     }
   }
-  
+   @media (min-width:320px) and (max-width:480px) {.first{height: 20vh; align-items: center; display:flex; flex-direction:column; justify-content:center; align-self:center; margin-top:2px;} } 
+
+ @media(min-width:320px) and (max-width:480px) {h3{text-align:center; font-size:0.1em; font-style: normal; font-family: Arial, Helvetica, sans-serif; font-weight: lighter; color: blueviolet; font-size: 2px;}}
+
+ @media(min-width:320px) and (max-width:480px) {.first img{border-radius: 5%; border: solid 0.2em blue; width:5vw; height:5vh;}}
+
+ @media(min-width:320px) and (max-width:480px) {.second button{overflow: hidden; width:12vw; height:5vh; color: goldenrod;}}
+
+ @media(min-width:320px) and (max-width:480px) {.formtext input{width: 35vw;}}
+
+ @media(min-width:320px) and (max-width:480px) {body{ background-position: center; background-size: contain; background-repeat: no-repeat; background-color:#EAF6F6; font-size: 0.3em; }}
+
+ @media(min-width:320px) and (max-width:480px){#images img{width:20vw; height:20vh; display: flex; flex-direction: row; justify-content: center; align-items: center;}}
+
+
+ @media(min-width:320px) and (max-width:480px){.first h3{font-size: 0.4em;}}
+
+
+ @media(min-width:320px) and (max-width:480px){input ::placeholder{font-size: 0.2em;}}
+
